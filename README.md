@@ -21,3 +21,4 @@ The entire development and testing process was carried out on Google Colab, a cl
 In conclusion, this project reflects the intersection of powerful AI models, accessible tools, and cloud computing. It brings together the capabilities of GPT-2, the ease of Gradio, and the flexibility of platforms like Google Colab to create a meaningful and interactive experience. By making advanced text generation accessible through an intuitive interface, this project highlights how AI can be a creative, educational, and productive partner in a wide variety of fields.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/94fa7aac-d8ba-4a00-b4a0-45433c8f7835)
